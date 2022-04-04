@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: azure;
+    font-family: 'Send Flowers', cursive;
+    font-weight: bold;
+}
+.container{
+    max-width: 1000px;
+    background-color: rgb(120, 192, 233) ;
+    margin: 0 auto;
+    padding: 20px;
+    
+
+}
+header{
+
+}
+.img{
+    width: 100px;
+    float: left;
+
+}
+.name{
+    float: left;
+    padding: 10px
+    ;
+}
+.contact{
+    float: right;
+    font-size: large;
+    padding: top:30px;
+
+}
+.contact a{
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(10, 10, 212);
+    font-weight: bold;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: solid rgb(8, 118, 158);
+    width: 100%;
+    margin: 10px auto;
+    border-bottom: none;
+}
+.left{
+    width: 30%;
+    float: left;
+}
+.right{
+    float: left;
+    width: 70%;
+}
+.c-hr{
+border: solid brown;
+border-bottom: none;
+width: 100%;
+margin: 20px auto;
+}
+.e-left{
+    float: left;
+    width: 45%;
+}
+.e-right{
+  float: left;
+  width: 45%;  
+}
+.footer{
+    background-color: rgb(111, 172, 230);
+    text-align: center;
+    padding: 10px;
+}
+.footer a{
+    color: aliceblue;
+    text-decoration: none;
+margin: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
